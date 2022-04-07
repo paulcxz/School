@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 6,
+	"VersionName": "1.06",
+	"FriendlyName": "CXZ Desktop Platform",
+	"Description": "cxz",
+	"Category": "CXZ",
+	"CreatedBy": "CXZ",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "CXZDesktopPlatform",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"		
+			]
+		}
+	]
+}
