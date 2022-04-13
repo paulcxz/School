@@ -46,6 +46,10 @@
 		{
 			"Name": "DMXProtocol",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
